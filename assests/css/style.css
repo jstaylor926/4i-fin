@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+}
+.navbar{
+    list-style-type: none;
+    width: 100%;
+    overflow: hidden;
+}
+.nav-links ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.nav-links li{
+    float: right;
+    padding: 8px;
+    display: block;
+
+}
+.nav-links a{
+    display: block;
+    }
