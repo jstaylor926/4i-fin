@@ -109,11 +109,11 @@ body{
 .parallax {
 	background-image: url('https://foureyes-web.s3.us-east-2.amazonaws.com/assets/img/logoResize.png');
 	background-color: #1d1723;
-	min-height: 350px; 
+	min-height: 500px; 
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size: 50%;
   }
   .imagine{
 	  padding-top: 60px;
@@ -127,4 +127,7 @@ body{
 
   .img-background {
 	background-color: #d9d9d9;
+  }
+  .cornsilk-color {
+	background-color: cornsilk;
   }
