@@ -57,7 +57,7 @@ body {
 	display: table;
 	width: 100%;
 	height: auto;
-	padding-top: 20%;
+	padding-top: 30%;
 	padding-bottom: 10%;
 	vertical-align: middle;
 	background-repeat: no-repeat;
@@ -153,4 +153,19 @@ body {
 	height: 25%;
 	line-height: 2;
 	width: 100%;
+}
+
+.service-bg {
+	background-image: url('./assets/img/service-header.jpeg');
+	position: relative;
+    overflow: hidden;
+    padding-top: calc(7rem + 72px);
+    padding-bottom: 7rem;
+	opacity: 90%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-attachment: scroll;
+	background-size: cover
+	z-index: 1;
+    position: relative
 }
