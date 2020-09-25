@@ -156,10 +156,10 @@ body {
 }
 
 .service-bg {
-	background-image: url('./assets/img/service-header.jpeg');
+	background-image: url('https://foureyes-web.s3.us-east-2.amazonaws.com/assets/img/service-header(2).png');
 	position: relative;
     overflow: hidden;
-    padding-top: calc(7rem + 72px);
+    padding-top: 20%;
     padding-bottom: 7rem;
 	opacity: 90%;
     background-repeat: no-repeat;
