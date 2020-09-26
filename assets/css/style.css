@@ -165,7 +165,7 @@ body {
     background-repeat: no-repeat;
     background-position: 50%;
     background-attachment: scroll;
-	background-size: cover
+	background-size: cover;
 	z-index: 1;
     position: relative
 }
