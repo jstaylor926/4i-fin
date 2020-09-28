@@ -102,7 +102,7 @@
   }
   .intro-container h4 {
 
-	font-family: Hack, 'sans-serif' !important;
+	font-family: Lato, 'sans-serif' !important;
 	font-weight: 100 !important;
 }
 
@@ -177,6 +177,33 @@
 	padding: 150px 0 40px;
 	overflow: hidden;
 }
+
+.form-container {
+  width: 100%;  
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background: #e6e6e6;
+}
+
+.contact-form {
+    width: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
 
 .logo-head {
 	height: 250px;
